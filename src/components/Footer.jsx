@@ -69,7 +69,7 @@ export default function Footer() {
 
       <div className="footer-right" style={{ display: 'flex', gap: '1rem' }}>
         <a
-          href="https://x.com/i/communities/1949866818450932120"
+          href="https://x.com/i/communities/1984329801017278747/"
           target="_blank"
           rel="noopener noreferrer"
           className="footer-bubble wii-hover-effect"
