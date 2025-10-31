@@ -77,12 +77,12 @@ export default function Footer() {
           <span style={{ fontSize: '1.8rem' }}>𝕏</span>
         </a>
         <a
-          href={`https://letsbonk.fun/token/${CONTRACT_ADDRESS}`}
+          href={`https://four.meme/token/${CONTRACT_ADDRESS}`}
           target="_blank"
           rel="noopener noreferrer"
           className="footer-bubble wii-hover-effect"
         >
-          <img src="/bonk_fun.png" alt="letsbonk.fun" />
+          <img src="/fourmeme.png" alt="four.meme" />
           <span className="footer-label">MiiCoin</span>
         </a>
       </div>
