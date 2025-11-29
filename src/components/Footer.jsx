@@ -77,12 +77,12 @@ export default function Footer() {
           <span style={{ fontSize: '1.8rem' }}>𝕏</span>
         </a>
         <a
-          href={`https://four.meme/token/${CONTRACT_ADDRESS}`}
+          href={`https://pump.fun/coin/${CONTRACT_ADDRESS}`}
           target="_blank"
           rel="noopener noreferrer"
           className="footer-bubble wii-hover-effect"
         >
-          <img src="/fourmeme.png" alt="four.meme" />
+          <img src="/pumpfun.png" alt="pump.fun" />
           <span className="footer-label">MiiCoin</span>
         </a>
       </div>

@@ -29,7 +29,7 @@ export default function WiiMenu() {
       name: 'Dexscreener',
       icon: '/dexscreener.png',
       onClick: () =>
-        window.open(`https://dexscreener.com/bsc/${CONTRACT_ADDRESS}`, '_blank'),
+        window.open(`https://dexscreener.com/solana/${CONTRACT_ADDRESS}`, '_blank'),
     },
     {
       name: 'X Community',
